@@ -40,13 +40,13 @@ Bem-vindo ao meu repositório dedicado à **Formação GitHub Certification** da
 | **Colaboração no GitHub**                           | ✅ Concluído |
 | **Formatação com Markdown**                         | ✅ Concluído |
 | **Explorando Colaboração e Markdown**               | ✅ Concluído |
-| **Conhecendo a Administração do GitHub**            | 🔄 Em andamento |
-| **Sobre Contas e Ferramentas do GitHub**            | 🔲 Não iniciado |
-| **Gerenciando Seu Trabalho Com GitHub Projects**    | 🔲 Não iniciado |
-| **GitHub Copilot**                                  | 🔲 Não iniciado |
-| **GitHub Codespace**                                | 🔲 Não iniciado |
-| **Utilizando Recursos do GitHub em um Projeto Open Source** | 🔲 Não iniciado |
-| **Utilizando as Ferramentas do GitHub para Solucionar Algoritmos em Python** | 🔲 Não iniciado |
+| **Conhecendo a Administração do GitHub**            | ✅ Concluído|
+| **Sobre Contas e Ferramentas do GitHub**            | ✅ Concluído |
+| **Gerenciando Seu Trabalho Com GitHub Projects**    | ✅ Concluído |
+| **GitHub Copilot**                                  | ✅ Concluído |
+| **GitHub Codespace**                                | ✅ Concluído |
+| **Utilizando Recursos do GitHub em um Projeto Open Source** | ✅ Concluído |
+| **Utilizando as Ferramentas do GitHub para Solucionar Algoritmos em Python** | ✅ Concluído |
 
 
 ---
